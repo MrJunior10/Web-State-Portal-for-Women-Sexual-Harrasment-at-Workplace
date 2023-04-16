@@ -89,7 +89,9 @@ CREATE TABLE `dummy` (
 --
 
 INSERT INTO `dummy` (`id`, `name`, `user_name`, `email`, `post`, `password`, `time`) VALUES
-(1, 'Tamal', 'Tamal18', 'Tamal@gmail.com', 'Tamal@gmail.com', 'Tamal', '2023-04-08 17:27:56');
+(1, 'Tamal', 'Tamal18', 'Tamal@gmail.com', 'Developer', 'Tamal', '2023-04-08 17:27:56'),
+(2, 'Sandip', 'Sandy', 'sandy123@gmail.com', 'Developer', 'sandy@12345', '2023-04-06 19:17:56'),
+(3, 'Kaustav', 'Kaustav18', 'Kaustav@gmail.com', 'Developer', 'kaustav', '2023-04-11 11:29:01')
 
 -- --------------------------------------------------------
 
