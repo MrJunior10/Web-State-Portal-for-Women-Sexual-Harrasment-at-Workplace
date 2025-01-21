@@ -46,28 +46,5 @@ SHARED COMPONENTS
 
 MISCELLANEOUS
 |-- .gitattributes           # Git configuration file
-Installation
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/repository-name.git
-Setup the Database:
-
-Import the shphp.sql file into your MySQL database.
-Update the database connection details in the core files.
-Run the Application:
-
-Host the project on a local server like XAMPP or WAMP.
-Access the application via localhost/index.php.
-Technologies Used
-PHP: Backend scripting language.
-MySQL: Database management system.
-HTML/CSS: Frontend design.
-JavaScript: Interactivity and validation.
-
-
-Developed with ❤️ for a safer and inclusive workplace.
 
 
