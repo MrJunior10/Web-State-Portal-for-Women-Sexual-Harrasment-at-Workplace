@@ -1,9 +1,3 @@
-
-Here’s the README text for you to copy directly:
-
-markdown
-Copy
-Edit
 # Web State Portal for Women Sexual Harassment at Workplace 💻
 
 ## Overview
@@ -72,16 +66,8 @@ PHP: Backend scripting language.
 MySQL: Database management system.
 HTML/CSS: Frontend design.
 JavaScript: Interactivity and validation.
-Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Developed with ❤️ for a safer and inclusive workplace.
 
-vbnet
-Copy
-Edit
 
-You can now copy this markdown-formatted text and paste it into your README.md file! Let me k
